@@ -34,6 +34,9 @@ const Navbar = () => {
             <li className="nav-item">
               <Link className="nav-link px-3 bg-success bg-gradient rounded text-white ms-2" to="/get-in">Faça Parte</Link>
             </li>
+            <li className="nav-item">
+              <Link style={{background: "#7b7bb9"}} className="nav-link px-3 bg-gradient rounded text-white ms-2" to="/work-with-us">Trabalhe Conosco</Link>
+            </li>
           </ul>
         </div>
       </div>
